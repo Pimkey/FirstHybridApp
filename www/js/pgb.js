@@ -20,3 +20,10 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myInfo() {
+
+	info =  'Hi, I am Ada. Istudycomputer science and work in Crif. I am 22 years old.'
+	navigator.notification.alert(info);
+	
+}
